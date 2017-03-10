@@ -19,7 +19,7 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 
 # Project Deliverables
 1. Web site
-..+ Introduction 
+...+ Introduction 
 ..+ End-to-end application 
 ..+ Description of parallel software solution with links to code repository
 ..+ scaling plots (weak and strong scaling)
