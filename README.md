@@ -70,6 +70,14 @@ Optionally, the project may take the path of research and generate a research pa
 2. The final output is a technical paper of journal quality comparable in depth to  papers published  in leading journals in computational/data science or parallel computing.
 3. The problem could be from generating a novel parallel graph algorithm  to optimising a scientific application  on odyssey with new insight,  and anything inbetween these two bounds of theory and experimentation.
 
+## Project Grade
+Project will be graded depth of work undertaken, communication (web site, presentation) and participation. 
+10%: Peer review 
+40%: Project software, README, overall quality (base line)
+30%: Advanced features
+10%: Project web site
+10%: Presentation
+
 ## Resources
 - Previous years projects
 - Harvard Computational and Data Science
