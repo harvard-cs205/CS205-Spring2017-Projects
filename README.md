@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+# Alt-H1 CS205 Spring 2017 Project Site
+Extreme scale data science at the convergence of big data and massively parallel computing is enabling simulation, modelling and real-time analysis of complex natural and social phenomena at unprecedented scales. The aim of the project is to gain practical experience into this interplay by applying parallel computation principles in solving a compute and data-intensive problem. 
+Applying interdisciplinary principles and skills of parallel computation and data science from CS205 and other courses  the goal is to construct a novel parallel software solution for an open-ended data science application that requires orders of magnitude compute scaling using Harvard’s supercomputer: Odyssey. Additionally, the project provides an opportunity to apply novel concepts and technologies to create niche applications and research outputs.
 
-You can use the [editor on GitHub](https://github.com/harvard-cs205/CS205-Spring2017-Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Requirements
+As a project team (4 to 5 members) you will identify a data science problem,  analyse its compute scaling requirement, collect the data, design and implement a parallel software, and demonstrate  scaled performance of an end-to-end application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The parallel software solution
+should be implemented on a heterogenous  distributed memory architecture with either a many-core or a multi-core compute node and  evaluated on 8 processor nodes (note: each compute node on Odyssey is a multi-core with 32 cores or with a manycore GPU with hundreds of cores). 
+as a  hybrid parallel program in either i) MPI+OpenMP or ii) MPI+OpenAcc (or CUDA ) or iii) Spark+
+and  its performance evaluated  on large data sets to  demonstrate both weak and strong scaling using appropriate metrics (throughput, efficiency, iso-efficiency).
+and solves a problem for a  non-trivial computation graph and with hierarchical parallelism. 
 
 ### Markdown
 
@@ -28,10 +35,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harvard-cs205/CS205-Spring2017-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
