@@ -29,7 +29,7 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 ### Project Milestones
 
 | Milestones    | Deadline  | 
-| ------------- |:-------------:| 
+| :------------- |:-------------| 
 | Project Team announcement (sign up document on repo)     | 22nd March 2017 | 
 | Project Proposal       | 24th March 2017      |  
 | Project presentation to class       | 25th April 2017      |  
@@ -41,13 +41,11 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 - All project related correspondence should be posted on Piazza. 
 - Project related emails (only critical) to: cs205-2017projects, general queries to Piazza.
 
-## Project Staff
+## Project Supervisors
 1. Manju
 2. Charles 
 3. Rafael
 4. WeiWeiPan
-
-
 
 ## Project choices and programming environments
 - You can choose any data/computational science problem that you have already worked on in any other course: eg., 109a, 109b, AM207 or Capstone
