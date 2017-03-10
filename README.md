@@ -19,10 +19,10 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 
 ### Project Deliverables
 1. Web site
--  Introduction 
-..* End-to-end application 
-..+ Description of parallel software solution with links to code repository
-..+ Application scaling plots (weak and strong scaling)
+   * Introduction 
+   * End-to-end application 
+   * Description of parallel software solution with links to code repository
+   * Application scaling plots (weak and strong scaling)
 2. Software with evaluation data sets (on Github repo)
 3. Presentation to the class and staff
 
@@ -63,6 +63,7 @@ To create novel parallel software solutions the project can make use of advanced
 
 ## Research output (optional)
 Optionally, the project may take the path of research and generate a research paper as output.  In this case the project requirements are:
+
 1. To implement a parallel algorithm as above but to support the research problem being addressed.
 2. The problem could be from generating a novel parallel graph algorithm  to optimise a scientific application  on odyssey with new insight and anything inbetween these two bounds of theory and experimentation.  
 3. The final output is a technical paper of journal quality comparable in depth to  papers published  in leading journals in computational/data science  or parallel computing.
