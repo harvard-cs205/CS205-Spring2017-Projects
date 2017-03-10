@@ -72,11 +72,11 @@ Optionally, the project may take the path of research and generate a research pa
 
 ## Project Grade
 Project will be graded depth of work undertaken, communication (web site, presentation) and participation. 
-10%: Peer review 
-40%: Project software, README, overall quality (base line)
-30%: Advanced features
-10%: Project web site
-10%: Presentation
+- 10%: Peer review 
+- 40%: Project software, README, overall quality (base line)
+- 30%: Advanced features
+- 10%: Project web site
+- 10%: Presentation
 
 ## Resources
 - Previous years projects
