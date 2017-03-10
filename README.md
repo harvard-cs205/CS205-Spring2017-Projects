@@ -19,7 +19,7 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 
 ### Project Deliverables
 1. Web site
-...* Introduction 
+-  Introduction 
 ..* End-to-end application 
 ..+ Description of parallel software solution with links to code repository
 ..+ Application scaling plots (weak and strong scaling)
@@ -30,16 +30,16 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 
 | Milestones    | Deadline  | 
 | :------------- |:-------------| 
-| Project Team announcement (sign up document on repo)     | 22nd March 2017 | 
-| Project Proposal       | 24th March 2017      |  
-| Project presentation to class       | 25th April 2017      |  
+| Project Team announcement (sign up document deposited in Git repo)     | 22nd March 2017 | 
+| Project Proposal (2 pages max.)       | 24th March 2017      |  
+| Project presentation to class (10 mins. + Qs)      | 25th April 2017      |  
 | Project deliverables (web site, code, README)| 29th April      | 
 | Weekly meetings with project supervisors | 20th March to 25th April |
 
 ## Project submissions: Github and Piazza
 - All project deliverables, including milestones related,  should be deposited in GitHub repos for peer evaluation.
 - All project related correspondence should be posted on Piazza. 
-- Project related emails (only critical) to: cs205-2017projects, general queries to Piazza.
+- Project related emails (meeting schedules) to: cs205-2017projects@github.com, general queries to Piazza. Only critical (or personal) nature emails to project supervisors email. 
 
 ## Project Supervisors
 1. Manju
@@ -48,15 +48,14 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 4. WeiWeiPan
 
 ## Project choices and programming environments
-- You can choose any data/computational science problem that you have already worked on in any other course: eg., 109a, 109b, AM207 or Capstone
-- Supervisors may offer choices based on their research interests. 
+- You can choose any data/computational science problem that you have already worked on in any other course: eg., 109a, 109b, AM207, AC297R (Capstone) or your own research work. 
+- Supervisors may offer projects  based on their research interests. 
 - You can re-use any code from the CS205 homework set and build your application software on top of it. But the code should be augmented with additional parallel code with  the requirements as specified above to gain further credit.
-- You can implement the solution in any programming language of your choice. 
+- You can implement the solution in any programming language of your choice (discuss with supervisors). 
 - In the interdisciplinary spirit of the subject area, and the cs205course, projects and project teams should have multiple disciplines.
 
 ## Advanced concepts and technologies
-To create novel solutions the project can make use of advanced concepts and technology that was explored in the course. 
- Implementations in the form of libraries and open source software  are available to build niche applications on top of it:
+To create novel parallel software solutions the project can make use of advanced concepts and technology that was explored in the course. Implementations in the form of libraries and open source software  are available to build niche applications on top of it:
 - Communication avoiding algorithms  to achieve strong scaling (to be installed on Odyssey).
 - Parallel algorithm formulation in the semi-ring.
 - Polyhedral model software to synthesise tiled parallel programs (OpenMP). https://sourceforge.net/projects/pocc/
@@ -72,4 +71,4 @@ Optionally, the project may take the path of research and generate a research pa
 - previous year project proposals
 - Harvard Computational and Data Science
 - NERSC data science projects.
-- Exascale Project 
+- Exascale Computing Project 
