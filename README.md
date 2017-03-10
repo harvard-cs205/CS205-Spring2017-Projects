@@ -50,7 +50,7 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 4. WeiWeiPan
 
 ## Project choices and programming environments
-- You can choose any data/computational science problem that you have already worked on in any other course: eg., 109a, 109b, AM207, AC297R (Capstone) or your own research work. 
+- You can choose any data/computational science problem that you have already worked on in any other course: eg., AC 209a, AC 209b, AM205, AM207, AC297R (Capstone) or your own research work. 
 - Supervisors may offer projects  based on their research interests. 
 - You can re-use any code from the CS205 homework set and build your application software on top of it. But the code should be augmented with additional parallel code with  the requirements as specified above to gain further credit.
 - You can implement the solution in any programming language of your choice (discuss with supervisors). 
@@ -71,7 +71,7 @@ Optionally, the project may take the path of research and generate a research pa
 3. The problem could be from generating a novel parallel graph algorithm  to optimising a scientific application  on odyssey with new insight,  and anything inbetween these two bounds of theory and experimentation.
 
 ## Resources
-- previous year project proposals
+- Previous years projects
 - Harvard Computational and Data Science
 - NERSC data science projects.
 - Exascale Computing Project 
