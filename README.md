@@ -71,7 +71,7 @@ Optionally, the project may take the path of research and generate a research pa
 3. The problem could be from generating a novel parallel graph algorithm  to optimising a scientific application  on odyssey with new insight,  and anything inbetween these two bounds of theory and experimentation.
 
 ## Project Grade
-Project will be graded depth of work undertaken, communication (web site, presentation) and participation. 
+Project will be graded on the depth of work undertaken, communication (web site, presentation) and participation. 
 - 10%: Peer review 
 - 40%: Project software, README, overall quality (base line)
 - 30%: Advanced features
