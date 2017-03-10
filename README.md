@@ -1,6 +1,7 @@
 # CS205: Projects in Parallel Data Science at SCALE
 spring 2017
-![alt text](https://github.com/harvard-cs205/CS205-Spring2017-Projects/edit/master/src/common/images/odyssey.png "Odyssey")
+
+![alt text](https://github.com/harvard-cs205/CS205-Spring2017-Projects/edit/master/images/projectsimg.png "Parallel Data Science")
 
 
 # About
@@ -11,33 +12,16 @@ Applying interdisciplinary principles and skills of parallel computation and dat
 As a project team (**4 to 5 members**) you will identify a data science problem,  analyse its compute scaling requirement, collect the data, design and implement a parallel software, and demonstrate  scaled performance of an end-to-end application.
 
 ## The parallel software solution
-- should be implemented on a heterogenous  distributed memory architecture with either a many-core or a multi-core compute node and  evaluated on 8 processor nodes (note: each compute node on Odyssey is a multi-core with 32 cores or with a manycore GPU with hundreds of cores). 
-- as a  hybrid parallel program in either i) MPI+OpenMP or ii) MPI+OpenAcc (or CUDA ) or iii) Spark+
+- should be implemented on a heterogenous  distributed memory architecture with either a many-core or a multi-core compute node and  evaluated on 8 compute nodes (note: each compute node on Odyssey is a multi-core with 32 (or 64) cores or with a manycore GPU with hundreds of cores). 
+- as a  hybrid parallel program in either i) MPI+OpenMP or ii) MPI+OpenAcc (or CUDA ) or iii) Spark+?
 - and  its performance evaluated  on large data sets to  demonstrate both weak and strong scaling using appropriate metrics (throughput, efficiency, iso-efficiency).
 - and should solve a problem for a  non-trivial computation graph and with hierarchical parallelism. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
+# Project Deliverables
+1. Web site
+..+ Introduction 
+..+ End-to-end application 
+..+ Description of parallel software solution with links to code repository
+..+ scaling plots (weak and strong scaling)
+2. Software with evaluation data sets (on Github repo)
+3. Presentation to the class and staff
