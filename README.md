@@ -1,10 +1,12 @@
 # CS205: Projects in Parallel Data Science at SCALE
 spring 2017
 
-![alt text](https://github.com/harvard-cs205/CS205-Spring2017-Projects/projectspng.png "Parallel Data Science")
+![alt text][logo]
+
+[logo]: https://github.com/harvard-cs205/CS205-Spring2017-Projects/projectspng.png "Parallel Data Science"
 
 
-# About
+## About
 Extreme scale data science at the convergence of big data and massively parallel computing is enabling simulation, modelling and real-time analysis of complex natural and social phenomena at unprecedented scales. The aim of the project is to gain practical experience into this interplay by applying parallel computation principles in solving a compute and data-intensive problem. 
 Applying interdisciplinary principles and skills of parallel computation and data science from CS205 and other courses  the goal is to construct a novel parallel software solution for an open-ended data science application that requires orders of magnitude compute scaling using Harvard’s supercomputer: Odyssey. Additionally, the project provides an opportunity to apply novel concepts and technologies to create niche applications and research outputs.
 
@@ -65,8 +67,8 @@ To create novel parallel software solutions the project can make use of advanced
 Optionally, the project may take the path of research and generate a research paper as output.  In this case the project requirements are:
 
 1. To implement a parallel algorithm as above but to support the research problem being addressed.
-2. The problem could be from generating a novel parallel graph algorithm  to optimise a scientific application  on odyssey with new insight and anything inbetween these two bounds of theory and experimentation.  
-3. The final output is a technical paper of journal quality comparable in depth to  papers published  in leading journals in computational/data science  or parallel computing.
+2. The final output is a technical paper of journal quality comparable in depth to  papers published  in leading journals in computational/data science or parallel computing.
+3. The problem could be from generating a novel parallel graph algorithm  to optimising a scientific application  on odyssey with new insight,  and anything inbetween these two bounds of theory and experimentation.
 
 ## Resources
 - previous year project proposals
