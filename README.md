@@ -28,25 +28,28 @@ To create novel parallel software solutions, or to undertake a research oriented
 
 
 ## Project Deliverables
-1. Web site
-   * Introduction 
-   * Background of end-to-end application 
-   * Technical description of parallel software solution with links to code repository
+1. Web site (max. 2 pages in poster format)
+   * Introduction which should include comparison with existing work on the problem.
+   * Background of end-to-end application with data sets used for evaluation.
+   * Technical description of parallel software solution with links to code repository and test cases. 
    * Application scaling plots (weak and strong scaling)
 2. Software with evaluation data sets (on Github repo)
 3. Presentation to the class and staff
 
 ### Project Milestones
+The milestones for your final project will be graded individually. It is important to adhere to the deadlines as the late date submission policy does not apply to projects. 
 
 | Milestones    | Deadline  | 
 | :------------- |:-------------| 
 | Project Team announcement (sign up document deposited in Git repo)     | 22nd March 2017 | 
-| Project Proposal (2 pages max.)       | 24th March 2017      |  
+| Project Proposal (1 page web site)       | 24th March 2017      |
+| Interim progress report (website populated with preliminary results) | 15th April      | 
 | Project deliverables (web site, code, README)| 29th April      | 
 | Project presentation to class (10 mins. + Qs)      | 2nd May 2017      | 
 | Weekly meetings with project supervisors | 20th March to 25th April |
 
 ## Project submissions: Github and Piazza
+- All submissions are per group.
 - All project deliverables, including milestones related,  should be deposited in GitHub repos for peer evaluation.
 - All project related correspondence should be posted on Piazza. 
 - Project related emails (meeting schedules) to: cs205-2017projects@github.com, general queries to Piazza. Only critical (or personal) nature emails to project supervisors email. 
@@ -59,11 +62,11 @@ To create novel parallel software solutions, or to undertake a research oriented
 
 ## Project choices and programming environments
 - You can choose any data/computational science problem that you have already worked on in any other course: AC 209a, AC 209b, AM205, AM207, AC297R (Capstone)
-- Your own research work with advanced concepts as above would be suitable to generate research output. 
+- Alternatively, your own research work with advanced concepts as above would be suitable to generate research output. 
 - Supervisors may offer projects  based on their research interests. 
 - You can re-use any code from the CS205 homework set and build your application software on top of it. But the code should be augmented with additional parallel code with  the requirements as specified above to gain further credit.
 - You can implement the solution in any programming language of your choice (discuss with supervisors). 
-- In the interdisciplinary spirit of the subject area, and the cs205course, projects and project teams should have multiple disciplines.
+- In the interdisciplinary spirit of the subject area, and the cs205 course, projects and project teams should have multiple disciplines.
 
 
 ## Research output (optional)
@@ -81,10 +84,10 @@ Project will be graded on the depth of work undertaken, communication (web site,
 - 10%: Project web site
 - 10%: Presentation to class
 
-## Resources
-- Previous years projects
-- Harvard Computational and Data Science
-- NERSC data science projects.
-- Exascale Computing Project 
+## Resources 
+- Harvard Computational and Data Science: references in courses listed above in project choices.
+- NERSC data science projects: http://www.nersc.gov/science/science-highlights-presentations/
+- Exascale Computing Project: https://exascaleproject.org/researchareas
+- Previous years projects: http://iacs-courses.seas.harvard.edu/courses/cs205/projects.html
 
 
