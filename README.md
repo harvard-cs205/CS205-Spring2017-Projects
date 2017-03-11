@@ -42,8 +42,8 @@ To create novel parallel software solutions, or to undertake a research oriented
 | :------------- |:-------------| 
 | Project Team announcement (sign up document deposited in Git repo)     | 22nd March 2017 | 
 | Project Proposal (2 pages max.)       | 24th March 2017      |  
-| Project presentation to class (10 mins. + Qs)      | 25th April 2017      |  
 | Project deliverables (web site, code, README)| 29th April      | 
+| Project presentation to class (10 mins. + Qs)      | 2nd May 2017      | 
 | Weekly meetings with project supervisors | 20th March to 25th April |
 
 ## Project submissions: Github and Piazza
@@ -58,7 +58,8 @@ To create novel parallel software solutions, or to undertake a research oriented
 4. WeiWeiPan
 
 ## Project choices and programming environments
-- You can choose any data/computational science problem that you have already worked on in any other course: eg., AC 209a, AC 209b, AM205, AM207, AC297R (Capstone) or your own research work. 
+- You can choose any data/computational science problem that you have already worked on in any other course: AC 209a, AC 209b, AM205, AM207, AC297R (Capstone)
+- Your own research work with advanced concepts as above would be suitable to generate research output. 
 - Supervisors may offer projects  based on their research interests. 
 - You can re-use any code from the CS205 homework set and build your application software on top of it. But the code should be augmented with additional parallel code with  the requirements as specified above to gain further credit.
 - You can implement the solution in any programming language of your choice (discuss with supervisors). 
@@ -69,8 +70,8 @@ To create novel parallel software solutions, or to undertake a research oriented
 Optionally, the project may take the path of research and generate a research paper as output.  In this case the project requirements are:
 
 1. To implement a parallel algorithm as above but to support the research problem being addressed.
-2. The final output is a technical paper of journal quality comparable in depth to  papers published  in leading journals in computational/data science or parallel computing.
-3. The problem could be from generating a novel parallel graph algorithm  to optimising a scientific application  on odyssey with new insight,  and anything inbetween these two bounds of theory and experimentation.
+2. To generate as  final output a technical paper of journal quality comparable in depth to  papers published  in leading journals in computational/data science or parallel computing.
+3. To choose a parallel solution which could range from  a novel parallel graph algorithm  to optimising a scientific application  on odyssey with new insights,  and anything inbetween these two bounds of theory and experimentation.
 
 ## Project Grade
 Project will be graded on the depth of work undertaken, communication (web site, presentation) and participation. 
