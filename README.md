@@ -1,5 +1,5 @@
 # CS205: Projects in Parallel Data Science at SCALE
-spring 2017
+Spring 2017
 
 ![alt text][logo]
 
@@ -15,7 +15,11 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 
 ### The parallel software solution
 - should be implemented on a heterogenous  distributed memory architecture with either a many-core or a multi-core compute node and  evaluated on 8 compute nodes (note: each compute node on Odyssey is a multi-core with 32 (or 64) cores or with a manycore GPU with hundreds of cores). 
-- as a  hybrid parallel program in either i) MPI+OpenMP ii) MPI+OpenAcc (or CUDA ) iii) PGAS + X iv) Spark
+- as a  hybrid parallel program in either 
+  * MPI+OpenMP 
+  * MPI+OpenAcc (or CUDA ) 
+  * PGAS + X 
+  * Spark
 - its performance evaluated  on large data sets to  demonstrate both weak and strong scaling using appropriate metrics (throughput, efficiency, iso-efficiency).
 - and should solve a problem for a  non-trivial computation graph and with hierarchical parallelism. 
 
@@ -32,7 +36,7 @@ To create novel parallel software solutions, or to undertake a research oriented
    * Introduction which should include comparison with existing work on the problem.
    * Background of end-to-end application with data sets used for evaluation.
    * Technical description of parallel software solution with links to code repository and test cases. 
-   * Application scaling plots (weak and strong scaling)
+   * Application scaling plots (weak and strong scaling).
 2. Software with evaluation data sets (on Github repo)
 3. Presentation to the class and staff
 
@@ -61,7 +65,7 @@ The milestones for your final project will be graded individually. It is importa
 4. WeiWeiPan
 
 ## Project choices and programming environments
-- You can choose any data/computational science problem that you have already worked on in any other course: AC 209a, AC 209b, AM205, AM207, AC297R (Capstone)
+- You can choose any data/computational science problem that you have already worked on in any other course: AC 209a, AC 209b, AM205, AM207, AC297R.
 - Alternatively, your own research work with advanced concepts as above would be suitable to generate research output. 
 - Supervisors may offer projects  based on their research interests. 
 - You can re-use any code from the CS205 homework set and build your application software on top of it. But the code should be augmented with additional parallel code with  the requirements as specified above to gain further credit.
@@ -78,14 +82,14 @@ Optionally, the project may take the path of research and generate a research pa
 
 ## Project Grade
 Project will be graded on the depth of work undertaken, communication (web site, presentation) and participation. 
-- 10%: Project review (Peer and Supervisor meetings)
-- 40%: Project software, README, overall quality (base line)
-- 30%: Advanced features
-- 10%: Project web site
-- 10%: Presentation to class
+- 10%: Project review (Peer and Supervisor meetings).
+- 40%: Project software, README, overall quality (base line).
+- 30%: Advanced features.
+- 10%: Project web site.
+- 10%: Presentation to class.
 
 ## Resources 
-- Harvard Computational and Data Science: references in courses listed above in project choices.
+- Harvard Computational and Data Science: references in courses listed above in project choices
 - NERSC data science projects: http://www.nersc.gov/science/science-highlights-presentations/
 - Exascale Computing Project: https://exascaleproject.org/researchareas
 - Previous years projects: http://iacs-courses.seas.harvard.edu/courses/cs205/projects.html
