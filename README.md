@@ -15,15 +15,23 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 
 ### The parallel software solution
 - should be implemented on a heterogenous  distributed memory architecture with either a many-core or a multi-core compute node and  evaluated on 8 compute nodes (note: each compute node on Odyssey is a multi-core with 32 (or 64) cores or with a manycore GPU with hundreds of cores). 
-- as a  hybrid parallel program in either i) MPI+OpenMP or ii) MPI+OpenAcc (or CUDA ) or iii) Spark+?
-- and  its performance evaluated  on large data sets to  demonstrate both weak and strong scaling using appropriate metrics (throughput, efficiency, iso-efficiency).
+- as a  hybrid parallel program in either i) MPI+OpenMP ii) MPI+OpenAcc (or CUDA ) iii) PGAS + X iv) Spark
+- its performance evaluated  on large data sets to  demonstrate both weak and strong scaling using appropriate metrics (throughput, efficiency, iso-efficiency).
 - and should solve a problem for a  non-trivial computation graph and with hierarchical parallelism. 
 
-### Project Deliverables
+## Advanced concepts and technologies
+To create novel parallel software solutions, or to undertake a research oriented outcome,  you can make use of advanced concepts and technology that was explored in the course. Implementations in the form of libraries and open source software  are available to build niche applications on top of it:
+- ‘Cutting edge’ P100 GPU architecture at 10 TeraFlops throughput from National resource (https://www.xsede.org/). Create an account in the XSEDE portal https://portal.xsede.org/ if you wish to go down the MPI+ OpenAcc path in the project. 
+- Communication avoiding algorithms  to achieve strong scaling (to be installed on Odyssey).
+- Polyhedral model software to synthesise tiled parallel programs (OpenMP). https://sourceforge.net/projects/pocc/
+- Parallel algorithm formulation in the semi-ring (libraries).
+
+
+## Project Deliverables
 1. Web site
    * Introduction 
-   * End-to-end application 
-   * Description of parallel software solution with links to code repository
+   * Background of end-to-end application 
+   * Technical description of parallel software solution with links to code repository
    * Application scaling plots (weak and strong scaling)
 2. Software with evaluation data sets (on Github repo)
 3. Presentation to the class and staff
@@ -56,12 +64,6 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 - You can implement the solution in any programming language of your choice (discuss with supervisors). 
 - In the interdisciplinary spirit of the subject area, and the cs205course, projects and project teams should have multiple disciplines.
 
-## Advanced concepts and technologies
-To create novel parallel software solutions the project can make use of advanced concepts and technology that was explored in the course. Implementations in the form of libraries and open source software  are available to build niche applications on top of it:
-- Communication avoiding algorithms  to achieve strong scaling (to be installed on Odyssey).
-- Parallel algorithm formulation in the semi-ring (libraries).
-- Polyhedral model software to synthesise tiled parallel programs (OpenMP). https://sourceforge.net/projects/pocc/
-- ‘Cutting edge’ P100 GPU architecture at 10 TeraFlops throughput from National resource (https://www.xsede.org/). (to be organised). 
 
 ## Research output (optional)
 Optionally, the project may take the path of research and generate a research paper as output.  In this case the project requirements are:
@@ -72,14 +74,16 @@ Optionally, the project may take the path of research and generate a research pa
 
 ## Project Grade
 Project will be graded on the depth of work undertaken, communication (web site, presentation) and participation. 
-- 10%: Peer review 
+- 10%: Project review (Peer and Supervisor meetings)
 - 40%: Project software, README, overall quality (base line)
 - 30%: Advanced features
 - 10%: Project web site
-- 10%: Presentation
+- 10%: Presentation to class
 
 ## Resources
 - Previous years projects
 - Harvard Computational and Data Science
 - NERSC data science projects.
 - Exascale Computing Project 
+
+
