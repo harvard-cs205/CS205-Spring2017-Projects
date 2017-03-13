@@ -18,7 +18,7 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
   * MPI+OpenMP 
   * MPI+OpenAcc (or CUDA ) 
   * PGAS + X 
-  * Spark
+  * Spark (with GPU acceleration)
 - its performance evaluated  on large data sets to  demonstrate both weak and strong scaling using appropriate metrics (throughput, efficiency, iso-efficiency).
 - and should solve a problem for a  non-trivial computation graph and with hierarchical parallelism. 
 
