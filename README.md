@@ -1,7 +1,7 @@
 # CS205: Projects in Parallel Data Science at SCALE
 Spring 2017
 
-![Parallel Data Science]
+![]
 (https://github.com/harvard-cs205/CS205-Spring2017-Projects/blob/master/about.png)
 
 
