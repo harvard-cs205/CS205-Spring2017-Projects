@@ -2,7 +2,7 @@
 Spring 2017
 
 ![Parallel Data Science]
-(https://github.com/harvard-cs205/CS205-Spring2017-Projects/blob/master/projectspng.png)
+(https://github.com/harvard-cs205/CS205-Spring2017-Projects/blob/master/about.png)
 
 
 ## About
