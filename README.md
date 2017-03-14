@@ -52,7 +52,7 @@ The milestones for your final project will be graded individually. It is importa
 | Weekly meetings with project supervisors | 20th March to 25th April |
 
 ## Project submissions: Github and Piazza
-- All submissions are per group.
+- All submissions are per group. Make your own respository on Github with a link to your project web page.
 - All project deliverables, including milestones related,  should be deposited in GitHub repos for peer evaluation.
 - All project related correspondence should be posted on Piazza. 
 - Project related emails (meeting schedules) to: cs205-2017projects@github.com, general queries to Piazza. Only critical (or personal) nature emails to project supervisors email. 
