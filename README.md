@@ -44,7 +44,7 @@ The milestones for your final project will be graded individually. It is importa
 | Milestones    | Deadline  | 
 | :------------- |:-------------| 
 | Project Team announcement (sign up document deposited in Git repo)     | 22nd March 2017 | 
-| Project Proposal (1 page web site)       | 24th March 2017      |
+| Project Proposal (1 page web site)       | 25th March 2017      |
 | Interim progress report (website populated with preliminary results) | 15th April      | 
 | Project deliverables (web site, code, README)| 29th April      | 
 | Project presentation to class (10 mins. + Qs)      | 2nd May 2017      | 
