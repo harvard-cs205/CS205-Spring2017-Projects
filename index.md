@@ -1,4 +1,4 @@
-# CS205: Projects in Parallel Data Science at SCALE
+# CS205: My project
 Spring 2017
 
 ![about](https://github.com/harvard-cs205/CS205-Spring2017-Projects/blob/master/about.png)
