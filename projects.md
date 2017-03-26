@@ -1,4 +1,4 @@
 
 # Visualizing Blood Flows
-## Peter Chang, Yong Li Dich (Maybe 1 more team member) 
+## Peter Chang, Yong Li Dich, Alexander Wu 
 ## https://github.com/yonglid/CS205-Final-Project
