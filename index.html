@@ -1,4 +1,33 @@
 <HTML>
-Hello world
+  <title>
+    Emergency Evacuation Plan using parallel programming
+  </title>
+<p>
+  Project proposal:
+
+Consider the problem of an emergency evacuation of a city when a natural disaster occurs or there is an emerging terrorist threat. We can define the total evacuation time of a city as the time it takes for the last person to get outside of the city bounds. When everyone is trying to get out of the city at the same time roads and pathways become congested, and hence slowing down the total evacuation time.
+
+Let’s think about this problem in a computational way. We can look at the city as a matrix of squares where each square has a structure that stores how many people are in that square and if it is accessible and so on. We can set the value of each square in the matrix as follows:
+
+Square value [x]:	Meaning of value:
+P	:This square is occupied by P persons.
+X	:Inaccessible square, i.e. no one can walk or drive through this square.
+C	:Capacity of square. How many people can stay on this square.
+I	:How many people are coming in through this square in the next timestep.
+O	:How many people are exiting through this square in the next timestep.
+T	:The current time stamp of this square.
+
+Consider the case of evacuating Cambridge. In real life when there are emergency evacuations, everyone rushes in the direction they believe leads them out of the city in the shortest time. This is not very efficient since most people might choose to exit through Harvard bridge causing it to become congested and very few people choose to exit through the other bridges or go through Somerville. 
+
+We can think about this problem computationally as if there is an advisor outside the city who has a cell phone and keeps texting people inside the city to tell them in which direction they should go. We can write an (inefficient) sequential program to solve this problem by traversing the matrix in a spiral to the middle moving everyone one square closer to the exit where the advisor would sequentially text every person in each square. 
+
+A parallel program could solve this problem in a more efficient way. Assuming the computer would have enough cores, it could simultaneously check all the outermost squares of the matrix, and then move closer to the middle in every step. We can imagine this as having many advisors, each texting people in each layer of squares, moving closer to the middle when all squares in this layer are finished. 
+
+Let’s think about the time complexity of this problem and assume that the size of the matrix is NxN. For the sequential code is has to check every square in the spiral until it reaches the middle for a total time of NxN. Then it has to do this at most N/2 times to move everyone outside of the city (assuming no inaccessible squares) for a total time complexity of N^3 (for simulation with inaccessible squares we can estimate that it takes some factor of N, which is much smaller than N^2, iterations to get everyone out for the same time complexity).
+However, for the parallel code assuming we would have 4N number of processors it would take N/2 steps to check the outermost squares and repeating for all layers of squares until we reach the middle element. We would have to repeat this process at most N/2 number of times for a total time complexity of N^2.
+
+Thoughts:
+We are very excited about this problem and believe we can simulate it for a large city like Cambridge using a matrix of structures as described above. Since the parallel code reduces the time complexity from N^3 to N^2 we are confident that we can achieve significant speedups using the multicore computers in Odyssey.
+  </p>
 
 </HTML>
