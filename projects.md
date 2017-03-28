@@ -2,6 +2,10 @@
 ## Laith Alhussein, Nathaniel Burbank, Shawn Pan, Andrew Ross, and Rohan Thavarajah
 ## [https://asross.github.io/cs205-project/](https://asross.github.io/cs205-project/)
 
+# Visualizing Blood Flows
+## Peter Chang, Yong Li Dich, Alexander Wu, Anita Chandrahas
+## https://github.com/yonglid/CS205-Final-Project
+
 # MPI enhanced image recognition using TensorFlow
 ## Tim Clements, Daniel Cusworth, Joannes (Bram) Maasakkers
 ## https://github.com/dcusworth/image_tensorflow
