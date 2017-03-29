@@ -13,4 +13,4 @@
 | Parallel Multi-layer Network with Improved Performance | Linglin Huang, Chang Liu, Greyson Liu, Kamrine Poels | https://github.com/jeffrey6557/CS205-Parallel-Computing-Project | Charles |
 |Mapping out Trajectories of Charged Defects |Rodrick Kuate Defo |  https://github.com/rkuade/CS205-project | Manju |
 |Remote Attestation and Software Stack Verification based on Trusted Platform Module (TPM) | Ronny Ko, Taosha Wang|https://github.com/urmysunshine007/CS205_Final_project | Charles |
-|Untitled |Josh Barrack, Dali Moghimi, Nancy Zhang, Richard Wang,Josh  | to be decided | Manju |
+|Untitled |Josh Barrack, Dali Moghimi, Nancy Zhang, Richard Wang | to be decided | Manju |
