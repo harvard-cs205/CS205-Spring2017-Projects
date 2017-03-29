@@ -21,3 +21,7 @@
 # Parallel Multi-layer Network with Improved Performance
 ## Linglin Huang, Chang Liu, Greyson Liu, Kamrine Poels
 ## https://github.com/jeffrey6557/CS205-Parallel-Computing-Project
+
+# Mapping out Trajectories of Charged Defects 
+## Rodrick Kuate Defo
+## https://github.com/rkuade/CS205-project
