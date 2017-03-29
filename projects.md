@@ -21,3 +21,7 @@
 # Parallel Multi-layer Network with Improved Performance
 ## Linglin Huang, Chang Liu, Greyson Liu, Kamrine Poels
 ## https://github.com/jeffrey6557/CS205-Parallel-Computing-Project
+
+# Distributed Asynchronous Boosting Tree (DAB Tree)
+## Qin Lyu, Bingfeng Xia, MingLong Wu, Hengte Lin 
+## https://github.com/CrimsonInn/dab-tree
