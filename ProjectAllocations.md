@@ -11,5 +11,5 @@
 | Emergency evacuation of a city | Tomas Gudmundsson , Sonu Mehta | https://cs205-project.github.io/CS205-Spring2017-Projects/ | |
 | Using Parallelized Classification to Determine the Structure of a Clandestine Market| Kareem Carr, Eric Dunipace, and Charlotte Lloyd | https://github.com/kareemcarr/cs205_2017_project/ | |
 | Parallel Multi-layer Network with Improved Performance | Linglin Huang, Chang Liu, Greyson Liu, Kamrine Poels | https://github.com/jeffrey6557/CS205-Parallel-Computing-Project | |
-|Mapping out Trajectories of Charged Defects |Rodrick Kuate Defo |  https://github.com/rkuade/CS205-project| |
+|Mapping out Trajectories of Charged Defects |Rodrick Kuate Defo |  https://github.com/rkuade/CS205-project |
 |Remote Attestation and Software Stack Verification based on Trusted Platform Module (TPM) | Ronny Ko, Taosha Wang|https://github.com/urmysunshine007/CS205_Final_project | |
