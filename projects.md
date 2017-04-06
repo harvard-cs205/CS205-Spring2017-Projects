@@ -2,9 +2,9 @@
 ## Laith Alhussein, Nathaniel Burbank, Shawn Pan, Andrew Ross, and Rohan Thavarajah
 ## [https://asross.github.io/cs205-project/](https://asross.github.io/cs205-project/)
 
-# MPI enhanced image recognition using TensorFlow
+# Parallelized Image Recognition in Spark + MPI
 ## Tim Clements, Daniel Cusworth, Joannes (Bram) Maasakkers
-## https://github.com/dcusworth/image_tensorflow
+## https://github.com/dcusworth/image_spark_mpi
 
 # Emergency evacuation of a city
 ## Tomas Gudmundsson , Sonu Mehta
