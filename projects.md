@@ -6,9 +6,9 @@
 ## Peter Chang, Yong Li Dich, Alexander Wu, Anita Chandrahas
 ## https://github.com/yonglid/CS205-Final-Project
 
-# MPI enhanced image recognition using TensorFlow
+# Parallelized Image Recognition in Spark + MPI
 ## Tim Clements, Daniel Cusworth, Joannes (Bram) Maasakkers
-## https://github.com/dcusworth/image_tensorflow
+## https://github.com/dcusworth/image_spark_mpi
 
 # Emergency evacuation of a city
 ## Tomas Gudmundsson , Sonu Mehta
@@ -25,3 +25,7 @@
 # Mapping out Trajectories of Charged Defects 
 ## Rodrick Kuate Defo
 ## https://github.com/rkuade/CS205-project
+
+ # Distributed Asynchronous Boosting Tree (DAB Tree)
+ ## Qin Lyu, Bingfeng Xia, MingLong Wu, Hengte Lin 
+ ## https://github.com/CrimsonInn/dab-tree
