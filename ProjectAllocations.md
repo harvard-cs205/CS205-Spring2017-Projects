@@ -7,7 +7,7 @@
 | Distributed Asynchronous Boosting Tree (DAB Tree)| Qin Lyu, Bingfeng Xia, MingLong Wu, Hengte Lin | https://github.com/CrimsonInn/dab-tree | Rafael |
 | Data Science | Jiahua Guo, Jiachen Song, Xinyuan Wang, Jiawei Zhuang | https://github.com/JiaweiZhuang/CS205_final_project | WeiWei |
 | Visualizing Blood Flows| Peter Chang, Yong Li Dich, Alexander Wu, Anita Chandrahas |https://github.com/yonglid/CS205-Final-Project | Manju |
-| MPI enhanced image recognition using TensorFlow |Tim Clements, Daniel Cusworth, Joannes (Bram) Maasakkers | https://github.com/dcusworth/image_tensorflow | Rafael | 
+| Parallelized Image Recognition in Spark + MPI|Tim Clements, Daniel Cusworth, Joannes (Bram) Maasakkers | https://github.com/dcusworth/image_spark_mpi | Rafael | 
 | Emergency evacuation of a city | Tomas Gudmundsson , Sonu Mehta, Dali Moghimi | https://cs205-project.github.io/CS205-Spring2017-Projects/ | Charles |
 | Using Parallelized Classification to Determine the Structure of a Clandestine Market| Kareem Carr, Eric Dunipace, and Charlotte Lloyd | https://github.com/kareemcarr/cs205_2017_project/ | Rafael |
 | Parallel Multi-layer Network with Improved Performance | Linglin Huang, Chang Liu, Greyson Liu, Kamrine Poels | https://github.com/jeffrey6557/CS205-Parallel-Computing-Project | Charles |
