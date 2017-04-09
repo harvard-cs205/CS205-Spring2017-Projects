@@ -1,4 +1,4 @@
-# Project list
+# Project Allocation 
 
 | Project Title | Team | Website | Supervisor
 | ------------ | --------- | -------- | -------- |
