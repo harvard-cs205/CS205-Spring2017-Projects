@@ -24,7 +24,7 @@ As a project team (**4 to 5 members**) you will identify a data science problem,
 ## Advanced concepts and technologies
 To create novel parallel software solutions, or to undertake a research oriented outcome,  you can make use of advanced concepts and technology that was explored in the course. Implementations in the form of libraries and open source software  are available to build niche applications on top of it:
 - ‘Cutting edge’ P100 GPU architecture at 10 TeraFlops throughput from National resource (https://www.xsede.org/). Create an account in the XSEDE portal https://portal.xsede.org/ if you wish to go down the MPI+ OpenAcc path in the project. 
-- Communication avoiding algorithms  to achieve strong scaling (to be installed on Odyssey).
+- Communication avoiding algorithms  to achieve strong scaling (is  installed on Odyssey as modules: https://portal.rc.fas.harvard.edu/apps/modules/CANDMC/2016-fasrc01,     https://portal.rc.fas.harvard.edu/apps/modules/CombBLAS/15.0-fasrc01 )
 - Polyhedral model software to synthesise tiled parallel programs (OpenMP). https://sourceforge.net/projects/pocc/
 - Parallel algorithm formulation in the semi-ring (libraries).
 
