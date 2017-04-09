@@ -86,6 +86,12 @@ Project will be graded on the depth of work undertaken, communication (web site,
 - 10%: Project web site.
 - 10%: Presentation to class.
 
+## Project Scale and Scope
+To uniformly assess the different projects the following criteria will be applied:
+-  A team of 2 will be expected to generate at least 2 homeworks equivalent of output for baseline outcome. 
+-  A team of 4 will therefore be expected to generate double the output in qualitative terms. A team of 5 should be exceeding this. 
+-  Advanced features can include half on modelling and half on parallel software.
+
 ## Resources 
 - Harvard Computational and Data Science: references in courses listed above in project choices
 - NERSC data science projects: http://www.nersc.gov/science/science-highlights-presentations/
