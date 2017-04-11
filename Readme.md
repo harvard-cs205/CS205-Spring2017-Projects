@@ -46,9 +46,9 @@ The milestones for your final project will be graded individually. It is importa
 | Project Team announcement (sign up document deposited in Git repo)     | 22nd March 2017 | 
 | Project Proposal (1 page web site)       | 25th March 2017      |
 | Interim progress report (website populated with preliminary results) | 15th April      | 
-| Project deliverables (web site, code, README)| 29th April      | 
+| Project deliverables (web site, code, README)| 1st May      | 
 | Project presentation to class (10 mins. + Qs)      | 2nd May 2017      | 
-| Weekly meetings with project supervisors | 20th March to 25th April |
+| Weekly meetings with project supervisors | 20th March to 28th April |
 
 ## Project submissions: Github and Piazza
 - All submissions are per group. Make your own respository on Github with a link to your project web page.
