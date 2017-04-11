@@ -39,7 +39,7 @@ To create novel parallel software solutions, or to undertake a research oriented
 3. Presentation to the class and staff
 
 ### Project Milestones
-The milestones for your final project will be graded individually. It is important to adhere to the deadlines as the late date submission policy does not apply to projects. 
+The milestones for your final project will be graded at each step according to the grading criteria given below. It is important to adhere to the deadlines as the late date submission policy does not apply to projects. 
 
 | Milestones    | Deadline  | 
 | :------------- |:-------------| 
