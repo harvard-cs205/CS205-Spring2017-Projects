@@ -5,7 +5,7 @@
 |Implementation and parallelization of Redfield equations | Florian Hasse, Hannah Sim, Teresa Tamayo| https://ttamayo.github.io/CS205_Redfield/ | Manju |
 | Teleporting Parallel MCMC | Laith Alhussein, Nathaniel Burbank, Shawn Pan, Andrew Ross, and Rohan Thavarajah |[https://asross.github.io/cs205-project/](https://asross.github.io/cs205-project/) | WeiWei|
 | Distributed Asynchronous Boosting Tree (DAB Tree)| Qin Lyu, Bingfeng Xia, MingLong Wu, Hengte Lin | https://github.com/CrimsonInn/dab-tree | Rafael |
-| Data Science | Jiahua Guo, Jiachen Song, Xinyuan Wang, Jiawei Zhuang | https://github.com/JiaweiZhuang/CS205_final_project | WeiWei |
+| Parallel Kmeans  | Jiahua Guo, Jiachen Song, Xinyuan Wang, Jiawei Zhuang | https://github.com/JiaweiZhuang/CS205_final_project | WeiWei |
 | Visualizing Blood Flows| Peter Chang, Yong Li Dich, Alexander Wu, Anita Chandrahas |https://github.com/yonglid/CS205-Final-Project | Manju |
 | Parallelized Image Recognition in Spark + MPI|Tim Clements, Daniel Cusworth, Joannes (Bram) Maasakkers | https://github.com/dcusworth/image_spark_mpi | Rafael | 
 | Emergency evacuation of a city | Tomas Gudmundsson , Sonu Mehta, Dali Moghimi | https://cs205-project.github.io/CS205-Spring2017-Projects/ | Charles |
