@@ -2,6 +2,8 @@
 ## 60 Oxford street,  Room 330, 10am to 1pm. 
 ## 10 mins + 3mins Q + 2 mins switch over
 
+## Morning Session: 10am to 11:30am
+
 | Time | Project Title | Team | Website | Supervisor
 | ------- | ------------ | --------- | -------- | -------- |
 | 10:00  | Parallelized Image Recognition in Spark + MPI|Tim Clements, Daniel Cusworth, Joannes (Bram) Maasakkers | https://github.com/dcusworth/image_spark_mpi | Rafael | 
@@ -10,6 +12,9 @@
 | 10:45  | Parallel Kmeans  | Jiahua Guo, Jiachen Song, Xinyuan Wang, Jiawei Zhuang | https://github.com/JiaweiZhuang/CS205_final_project | WeiWei |
 | 11:00  | Visualising Blood Flows| Peter Chang, Yong Li Dich, Alexander Wu, Anita Chandrahas |https://github.com/yonglid/CS205-Final-Project | Manju |
 | 11:15  | Parallelized Image Recognition in Spark + MPI|Tim Clements, Daniel Cusworth, Joannes (Bram) Maasakkers | https://github.com/dcusworth/image_spark_mpi | Rafael | 
+
+## Afternoon Session: 2pm to 3:30pm
+
 | 11:30  | Emergency evacuation of a city | Tomas Gudmundsson , Sonu Mehta, Dali Moghimi | https://cs205-project.github.io/CS205-Spring2017-Projects/ | Charles |
 | 11:45  | Using Parallelized Classification to Determine the Structure of a Clandestine Market| Kareem Carr, Eric Dunipace, and Charlotte Lloyd | https://github.com/kareemcarr/cs205_2017_project/ | Rafael |
 | 12:00  | Parallel Multi-layer Network with Improved Performance | Linglin Huang, Chang Liu, Greyson Liu, Kamrine Poels | https://github.com/jeffrey6557/CS205-Parallel-Computing-Project | Charles |
