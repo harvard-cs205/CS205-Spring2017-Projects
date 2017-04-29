@@ -1,4 +1,5 @@
-# Project Presentation, May 2nd 2017, 60 Oxford street rm 330, 10am to 1pm. 
+# Project Presentation, May 2nd 2017, 
+## 60 Oxford street rm 330, 10am to 1pm. 
 
 | Time | Project Title | Team | Website | Supervisor
 | ------- | ------------ | --------- | -------- | -------- |
