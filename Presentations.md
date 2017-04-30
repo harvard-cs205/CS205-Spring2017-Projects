@@ -10,7 +10,7 @@
 | 10:15  | Teleporting Parallel MCMC | Laith Alhussein, Nathaniel Burbank, Shawn Pan, Andrew Ross, and Rohan Thavarajah |[https://asross.github.io/cs205-project/](https://asross.github.io/cs205-project/) | WeiWei|
 | 10:30  | Parallelizing Blood Flow Reversal in Tunicates | Anita Chandrahas, Peter Chang, Yong Li Dich, Alex Wu | https://github.com/yonglid/CS205-Final-Project | Manju |
 | 10:45  | Remote Attestation and Software Stack Verification based on Trusted Platform Module (TPM) | Ronny Ko, Taosha Wang|https://github.com/urmysunshine007/CS205_Final_project | Charles |
-| 11:00  | Mapping out Trajectories of Charged Defects |Rodrick Kuate Defo, Richard Wang |  https://github.com/rkuade/CS205-project | Manju |
+| 11:00  | Parallel BFS for Mapping out Trajectories of Charged Defects |Rodrick Kuate Defo, Richard Wang |  https://github.com/rkuade/CS205-project | Manju |
 | 11:15  | Distributed Asynchronous Boosting Tree (DAB Tree)| Qin Lyu, Bingfeng Xia, MingLong Wu, Hengte Lin | https://github.com/CrimsonInn/dab-tree | Rafael |
 
 
