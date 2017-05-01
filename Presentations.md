@@ -7,6 +7,9 @@ Prepare your powerpoint for a 10min presentation. You will be assessed on how ef
 - the 'big picture' to a non-specialist
 - the 'depth of the work' undertaken to a specialist focussing on the science  and the computer science.
 
+## Peer evaluation
+Note that you have to be present for your session to perform peer evaluation of presentations. You can attend both sessions.
+
 
 ## Morning Session: 10am to 11:30am
 
