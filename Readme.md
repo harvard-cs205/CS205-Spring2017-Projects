@@ -30,13 +30,14 @@ To create novel parallel software solutions, or to undertake a research oriented
 
 
 ## Project Deliverables
-1. Web site (max. 2 pages in poster format)
+1. Web site (max. 4 pages)
    * Introduction which should include comparison with existing work on the problem.
-   * Background of end-to-end application with data sets used for evaluation.
-   * Technical description of parallel software solution with links to code repository and test cases. 
-   * Application scaling plots (weak and strong scaling).
-2. Software with evaluation data sets (on Github repo)
-3. Presentation to the class and staff
+   * Technical description of the parallel software solution, programming models,  with links to **code repository**. 
+   * Application scaling plots (speed-up, throughput, weak and strong scaling).
+   * Advanced Features
+   * Citations
+2. Software with evaluation data sets, test cases (on Github repo)
+3. Presentation to the students and staff
 
 ### Project Milestones
 The milestones for your final project will be graded at each step according to the grading criteria given below. It is important to adhere to the deadlines as the late date submission policy does not apply to projects. 
