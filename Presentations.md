@@ -1,5 +1,5 @@
 # Project Presentation, May 2nd 2017
-#### 60 Oxford street,  Room 330, 10am to 3:30pm (two sessions)
+#### Physics,  Jefferson 356 , 10am to 3:30pm (two sessions)
 #### Presentation: 10 mins,  Qs:   3mins, Switch over:  2 mins 
 
 ## Evaluation criteria
