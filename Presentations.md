@@ -2,6 +2,12 @@
 #### 60 Oxford street,  Room 330, 10am to 3:30pm (two sessions)
 #### Presentation: 10 mins,  Qs:   3mins, Switch over:  2 mins 
 
+## Evaluation criteria
+Prepare your powerpoint for a 10min presentation. You will be assessed on how effectively you communicate 
+- the 'big picture' to a non-specialist
+- the 'depth of the work' undertaken to a specialist focussing on the science  and the computer science.
+
+
 ## Morning Session: 10am to 11:30am
 
 | Time | Project Title | Team | Website | Supervisor
