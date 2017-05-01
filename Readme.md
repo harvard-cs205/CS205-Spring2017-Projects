@@ -30,7 +30,7 @@ To create novel parallel software solutions, or to undertake a research oriented
 
 
 ## Project Deliverables
-1. Web site (max. 4 pages)
+1. Web site (max. 5 pages)
    * Introduction which should include comparison with existing work on the problem.
    * Technical description of the parallel software solution, programming models,  with links to **code repository**. 
    * Application scaling plots (speed-up, throughput, weak and strong scaling).
