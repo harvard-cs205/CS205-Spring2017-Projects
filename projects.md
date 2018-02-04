@@ -29,3 +29,9 @@
  # Distributed Asynchronous Boosting Tree (DAB Tree)
  ## Qin Lyu, Bingfeng Xia, MingLong Wu, Hengte Lin 
  ## https://github.com/CrimsonInn/dab-tree
+ 
+ # Processing and Imputation for Smartphone Accelerometer Data
+ ## Josh Barback
+ ## https://github.com/josh-barback/CS205_project
+ 
+ 
